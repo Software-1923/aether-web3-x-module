@@ -17,7 +17,17 @@
     "@netlify/config": "^20.10.0",
     "@netlify/edge-bundler": "^10.1.2",
     "@netlify/local-functions-proxy": "^1.1.1",
+    "@netlify/plugin-nextjs": "^4.41.3",
     "@netlify/zip-it-and-ship-it": "^9.26.1",
-    "@octokit/rest": "^19.0.13"
+    "@octokit/rest": "^19.0.13",
+    "@openzeppelin/contracts": "^4.9.5",
+    "@ponomarevlad/mongo-fetch": "^1.5.0-custom.3",
+    "@vitejs/plugin-legacy": "^4.1.1",
+    "atlas": "^1.0.0-alpha.0",
+    "atlas-app-services-admin-api": "^1.5.5",
+    "atlas-fetch-data-api": "^1.0.5",
+    "axios": "^0.24.0",
+    "browserify-fs": "^1.0.0",
+    "chalk": "^5.3.0"
   }
 }
