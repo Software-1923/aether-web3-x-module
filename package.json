@@ -1,0 +1,23 @@
+{
+  "name": "aether-web3-x-module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "Library server via modular web 3.0 technology",
+  "dependencies": {
+    "@bugsnag/js": "^7.20.2",
+    "@fastify/static": "^6.10.2",
+    "@netlify/blobs": "^6.5.0",
+    "@netlify/build": "^29.26.6",
+    "@netlify/build-info": "^7.11.1",
+    "@netlify/config": "^20.10.0",
+    "@netlify/edge-bundler": "^10.1.2",
+    "@netlify/local-functions-proxy": "^1.1.1",
+    "@netlify/zip-it-and-ship-it": "^9.26.1",
+    "@octokit/rest": "^19.0.13"
+  }
+}
